@@ -3,7 +3,7 @@
 
 🙋🏻 Hello, my name is Lucas.
 
-I'm a Software Developer, UI/UX Designer, based in Brazil. I'm passionate about design and user experience/development.
+I'm a Software Developer and UI/UX Designer, based in Brazil. I'm passionate about design and user experience/development.
 
 ## Technologies that i use: 
 
