@@ -12,3 +12,6 @@ HTML, CSS, API Rest, JavaScript, TypeScript, ReactJS, NodeJS, Storybook, Styled 
 ## My experiences:
 
  React  | NextJS | Typescript | Node | Figma | Design System | UX/UI Design.
+
+## Contact: 
+lukasoliveiracks@gmail.com
