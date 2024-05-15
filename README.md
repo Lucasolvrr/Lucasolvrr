@@ -5,7 +5,7 @@
 
 I'm a Software Developer and UI/UX Designer, based in Brazil. I'm passionate about design and user experience/development.
 
-### Technologies that i use:
+## Technologies that i use:
 
 <img height="48px" src="https://skillicons.dev/icons?i=git,javascript,typescript,react,vuejs,python,vscode" />          
 
