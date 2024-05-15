@@ -18,6 +18,7 @@ I'm a Software Developer and UI/UX Designer, based in Brazil. I'm passionate abo
 <a href="https://linkedin.com/in/lucas-olvrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasolvrr" height="30" width="40" /></a>  
 <a href="https://dribbble.com/lucasolvrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lucasolvrr" height="30" width="40" /></a>
 <a href="https://www.behance.net/lucasoliveira719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lucasolvrr" height="30" width="40" /></a>     
+<a href="https://discordapp.com/users/330047377421369355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasolvrr" height="30" width="40" /></a>   
 </p>
 
 [![Lucasolvrr github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasolvrr&color=FF58A6&point=F78F1E&bg_color=0D1117line=CEC5DA&radius=10&hide_border=true&hide_title=true)](https://github.com/lucasolvrr/github-readme-activity-graph)
