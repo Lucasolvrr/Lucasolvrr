@@ -9,7 +9,7 @@ I'm a Software Developer and UI/UX Designer, based in Brazil. I'm passionate abo
 
 <img height="48px" src="https://skillicons.dev/icons?i=git,javascript,typescript,react,vuejs,python,vscode" />          
 
-## Design tools that i use:
+## Tools that i use:
 
 <img height="48px" src="https://skillicons.dev/icons?i=figma,xd,notion,obsidian,photoshop,webflow" />          
 
