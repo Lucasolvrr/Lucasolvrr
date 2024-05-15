@@ -1,7 +1,7 @@
 
 # Welcome to my profile!
 
-## 🙋🏻 Hello, my name is Lucas.
+## 🙋🏻 Hello, I'm Lucas!
 
 I'm a Software Developer and UI/UX Designer, based in Brazil. I'm passionate about design and user experience/development.
 
